@@ -7,7 +7,7 @@
   <a href="https://wrenspace.ai">wrenspace.ai</a> &middot;
   <a href="https://wrenspace.ai/download">Download</a> &middot;
   <a href="https://account.wrenspace.ai">Account</a> &middot;
-  <a href="https://wrenspace.ai/pricing">Pricing</a>
+  <a href="https://wrenspace.ai#pricing">Pricing</a>
 </p>
 
 ---
