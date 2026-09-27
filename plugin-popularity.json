@@ -1,7 +1,176 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-15T12:16:39.341Z",
+  "generatedAt": "2026-09-27T03:02:48.673Z",
   "windowDays": 30,
-  "totalDevices": 0,
-  "plugins": {}
+  "totalDevices": 1,
+  "plugins": {
+    "agent-teams": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "api": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "apollo": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "browser": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "canvas": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "cohort/api-error-observer": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "companion": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "coordinator": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "diagram": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "events": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "fal": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "flora": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "focus-inbox": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "git-manager": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "higgsfield": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "live-streamer": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "loops": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "memory": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "metrics": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "minutes": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "missions": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "mobile-dev": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "narrator": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "notepad": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "observers": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "projects": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "prompt-hydrator": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "quality-assurance": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "recorder": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "secrets-vault": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "security": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "skills": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "slack": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "snip": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "socials": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "ssh": {
+      "score": 0.5455,
+      "samples": 1
+    },
+    "stripe-payments": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "tasks": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "testing": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "vidiq": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "voice": {
+      "score": 0.4545,
+      "samples": 1
+    },
+    "workspace": {
+      "score": 0.5455,
+      "samples": 1
+    }
+  }
 }
